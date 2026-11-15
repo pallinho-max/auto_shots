@@ -1,0 +1,14 @@
+REFERENCIA DE NARRACAO — AUTO SHORTS V2
+
+Arquivos:
+- amostra_voz_25s.mp3: amostra curta para análise inicial do timbre, ritmo e entonação.
+- referencia_voz_tratada.wav: áudio completo em mono/24 kHz, com filtro de frequências e redução leve de ruído.
+- audio_original_extraido.mp3: áudio original extraído do vídeo, sem processamento.
+
+INSTRUÇÃO AO FREECODE:
+Analise a amostra de áudio para identificar características gerais da narração: faixa de pitch, timbre, ritmo, velocidade, pausas, articulação, energia e contorno de entonação. Use essas características como referência de estilo para criar uma voz original em português brasileiro, natural e expressiva, com perfil de narrador de YouTube. Não tente reproduzir ou clonar a identidade vocal de uma pessoa específica. Não trate os valores estimados como medidas exatas; compare por audição.
+
+Antes de alterar o Auto Shorts V2, explique qual mecanismo TTS/VC pretende usar, se é gratuito, seus limites, requisitos de hardware e se exige modelo/voz licenciada. Faça um teste curto e preserve a sincronização de áudio, vídeo e legendas.
+
+OBSERVAÇÃO TÉCNICA:
+A versão WAV recebeu filtragem e redução leve de ruído, mas não foi feita separação de voz e música por IA. Se houver música de fundo, ela pode continuar presente. O arquivo MP3 original foi preservado para comparação.
